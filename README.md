@@ -1,5 +1,5 @@
 # Tic Tac Toe
-A simple Tic Tac Toe game implemented using Python and Pygame.
+A simple, interactive Tic Tac Toe game built with Python using Pygame and NumPy.
 
 ## Features
 - Two-player game
